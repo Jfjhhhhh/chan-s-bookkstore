@@ -1,0 +1,3 @@
+/mnt/d/大一上课程/程序设计/bookstore/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/大一上课程/程序设计/bookstore/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/大一上课程/程序设计/bookstore/src/cmake-build-debug/CMakeFiles/src.dir

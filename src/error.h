@@ -1,5 +1,5 @@
-#ifndef ERROR
-#define ERROR
+#ifndef SRC_ERROR_H
+#define SRC_ERROR_H
 #include <exception>
 #include <string>
 using std::string;
